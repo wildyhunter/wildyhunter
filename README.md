@@ -17,6 +17,7 @@
 <img align="center" alt="Rafa-Linux" heigth«"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 ##
+
 ![snake gif](https://github.com/wildyhunter/wildyhunter/blob/output/github-contribution-grid-snake.gif)
-##
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AF3FDB&height=120&section=footer"/>
