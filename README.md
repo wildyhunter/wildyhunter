@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wildyhunter&show_icons=true&count_private=true&hide_border=true&title_color=AF3FDB&icon_color=ff91a4&text_color=ff91a4&bg_color=0d1117" alt="Vagner Oliveira Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildyhunter&layout=compact&hide_border=true&title_color=#46C1E0&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildyhunter&layout=compact&hide_border=true&title_color=AF3FDB&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 ## Main Skills
