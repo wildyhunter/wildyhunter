@@ -7,8 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildyhunter&layout=compact&hide_border=true&title_color=AF3FDB&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+##Main Skills
 <div style="display: inline_block"; margin: 0><br>
-  <title>Main skills:</title>
 <img align="center" alt="Rafa-Python" heigth«"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="center" alt="Rafa-Html" heigth«"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="center" alt="Rafa-Css" heigth«"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
