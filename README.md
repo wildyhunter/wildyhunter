@@ -22,6 +22,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient%20ff&section=footer"/>
 
-![Snake animation](https;//github.com/wildyhunter/wildyhunter/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/wildyhunter/wildyhunter/blob/output/github-contribution-grid-snake.gif)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0763E3&height=120&section=footer"/>
