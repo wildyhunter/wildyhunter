@@ -25,4 +25,5 @@
 ![Snake animation](https://github.com/wildyhunter/wildyhunter/raw/output/dist/github-contribution-grid-snake.gif)
 
 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0763E3&height=120&section=footer"/>
