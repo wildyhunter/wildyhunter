@@ -20,9 +20,8 @@
 <img align="center" alt="RMYsql" heigth«"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
-![Snake animation](https;//github.com/wildyhunter/wildyhunter/blob/output/github-contribution-grid-snake.svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient%20ff&section=footer"/>
 
+![Snake animation](https;//github.com/wildyhunter/wildyhunter/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0763E3&height=120&section=footer"/>
