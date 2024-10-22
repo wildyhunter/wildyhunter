@@ -13,16 +13,15 @@
 
 
  
+## Main Skills
   <div align="center" >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,tailwind,bootstrap,figma,react,next,vite,docker,mongodb,postgres,mysql,git,linkedin" />
 </a>
   <br />
-
   </div>
 
  
-## Main Skills
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
