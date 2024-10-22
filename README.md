@@ -4,7 +4,6 @@
 
 
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  ![Status](https://github.com/wildyhunter/wildyhunter/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
   
