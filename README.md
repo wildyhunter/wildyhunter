@@ -14,6 +14,7 @@
 
  
 ## Main Skills
+
   <div align="center" >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,tailwind,bootstrap,figma,react,next,vite,docker,mongodb,postgres,mysql,git,linkedin" />
@@ -25,12 +26,6 @@
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wildyhunter&show_icons=true&count_private=true&hide_border=true&title_color=07A8E3&icon_color=0763E3&text_color=5d8aa4&bg_color=0d1117" alt="Vagner Oliveira Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildyhunter&layout=compact&hide_border=true&title_color=07A8E3&text_color=5d8aa4&bg_color=0d1117" />
-</div>
 
 
 
