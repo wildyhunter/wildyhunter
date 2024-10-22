@@ -14,7 +14,7 @@
 ## Main Skills
 
   <div align="center" >
-<a href="https://skillicons.dev"   >
+<a href="https://skillicons.dev" align="center"  >
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,tailwind,bootstrap,figma,react,next,vite,docker,mongodb,postgres,mysql,git,linkedin" />
 </a>
     <hr>
