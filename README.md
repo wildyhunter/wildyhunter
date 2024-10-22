@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0763E3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=07E3D8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vagner+Oliveira;I'm+35+years+old;I'm+live+in+Portugal;Im+Junior+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
